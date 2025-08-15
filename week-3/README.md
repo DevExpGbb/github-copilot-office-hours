@@ -1,20 +1,20 @@
 # Week 3: Copilot for Different Development Domains
 **Duration:** 60 minutes  
-**Format:** 30-minute structured demo + 30-minute community session
+**Format:** 35-minute structured demo + 25-minute community session
 
 ## Session Overview
 This session explores how GitHub Copilot adapts to different development domains, demonstrating its effectiveness across web development, backend services, data science, and testing scenarios.
 
 ---
 
-## Part 1: Structured Demo Session (30 minutes)
+## Part 1: Structured Demo Session (35 minutes)
 
 ### 1. Welcome & Advanced Techniques Recap (3 minutes)
 - **Week 2 challenge highlights** and key discoveries
 - **Prompting best practices** review
 - **Today's focus:** Domain-specific Copilot applications
 
-### 2. Web Development with Copilot (8 minutes)
+### 2. Web Development with Copilot (12 minutes)
 #### Frontend Framework Demonstrations (6 minutes)
 
 **React Example (2 minutes):**
@@ -43,6 +43,28 @@ This session explores how GitHub Copilot adapts to different development domains
 - **Accessibility considerations** in generated code
 - **Performance optimization** patterns
 - **Modern JavaScript features** integration
+
+#### Vision-Powered UI Development (4 minutes)
+**Visual Design to Code Translation:**
+- **Screenshot analysis** for UI component generation
+- **Design mockup interpretation** (PNG, JPEG, WebP formats)
+- **Layout structure recognition** and responsive design implementation
+- **Component hierarchy extraction** from visual designs
+
+**Live Demo Example:**
+```
+Scenario: Upload a UI mockup screenshot
+- Agent analyzes visual layout and design elements
+- Generates corresponding React/Vue/Angular components
+- Produces CSS/styling code matching the design
+- Suggests responsive breakpoints and accessibility features
+```
+
+**Vision Capabilities Benefits:**
+- **Rapid prototyping** from design files
+- **Design-to-code consistency** improvement
+- **Cross-browser compatibility** considerations
+- **Mobile-first responsive** implementation patterns
 
 ### 3. Backend Development Focus (8 minutes)
 #### Server Framework Demonstrations (6 minutes)
@@ -120,7 +142,7 @@ This session explores how GitHub Copilot adapts to different development domains
 
 ---
 
-## Part 2: Community Session (30 minutes)
+## Part 2: Community Session (25 minutes)
 
 ### 1. Domain-Specific Breakout Discussions (18 minutes)
 #### Structured Domain Groups (15 minutes)
