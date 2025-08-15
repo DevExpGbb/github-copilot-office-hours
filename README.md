@@ -6,6 +6,16 @@
   - First 30 minutes: Structured demo/feature talk
   - Last 30 minutes: Volunteer demos, insights, Q&A, and feedback
 - **Delivery Method:** Virtual or In-Person Workshop
+- **Recording:** All sessions recorded for asynchronous learning
+- **Support:** Mid-week office hours and dedicated Slack/Discord channel
+- **Assessment:** Pre/post workshop skills evaluation and weekly mini-challenges
+
+## Pre-Session Preparation
+- **Week 0 Setup:**
+  - Complete pre-workshop skills assessment
+  - Install VS Code and GitHub Copilot extension
+  - Join dedicated Slack/Discord channel
+  - Complete "Hello Copilot" challenge
 
 ## Week 1: Introduction to GitHub Copilot
 ### Demo Focus (30 minutes)
@@ -15,6 +25,7 @@
   - Understanding Copilot's basic functionality
   - Configuring Copilot settings
   - First code generation examples across different languages
+  - Advanced: GitHub Copilot Custom Instructions File
 - **Live Coding Showcase:**
   - Demonstrate Copilot in Python, JavaScript, and TypeScript
   - Show how Copilot understands context and provides intelligent suggestions
@@ -29,6 +40,8 @@
 - **Topic:** Maximizing Copilot's Code Generation Capabilities
 - **Key Demonstrations:**
   - Writing effective comments and prompts
+  - Prompt engineering techniques specific to coding
+  - Using Copilot Chat vs inline suggestions effectively
   - Handling complex code generation scenarios
   - Copilot for different programming paradigms
   - Best practices for AI-assisted coding
@@ -64,7 +77,7 @@
 - **Topic:** Enhancing Developer Productivity with Copilot
 - **Key Demonstrations:**
   - Integrating Copilot with existing workflows
-  - Using Copilot for repetitive tasks
+  - Using Copilot for repetitive tasks (Custom Prompts)
   - Refactoring and code optimization
   - Understanding Copilot's limitations
 - **Live Coding Showcase:**
@@ -82,6 +95,7 @@
 - **Topic:** Advanced Copilot Features and Future Trends
 - **Key Demonstrations:**
   - GitHub Copilot "Agent Mode" vs. GitHub Copilot "Coding Agent"
+  - Advanced use: "Custom Chat Modes"
   - AI-powered code completion in complex projects
   - Preview of upcoming AI coding technologies
 - **Live Coding Showcase:**
@@ -98,6 +112,18 @@
 - VS Code Extension Repository
 - Recommended learning paths
 - Community forums and support channels
+
+## Participant Preparation
+- Install VS Code
+- Create GitHub account
+- Install GitHub Copilot extension
+- Prepare development environment
+- Bring specific coding challenges or projects
+
+## Feedback Mechanism
+- Mid-workshop surveys
+- Final comprehensive feedback form
+- Continuous improvement tracking
 
 ## Participant Preparation
 - Install VS Code
